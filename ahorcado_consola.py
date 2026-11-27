@@ -1,6 +1,5 @@
 import random
 import json
-from ahorcado_words import words_list
 
 # Cargo el JSON
 with open("lista.json") as words:
