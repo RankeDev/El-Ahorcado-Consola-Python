@@ -2,7 +2,7 @@ import random
 import json
 
 # Cargo el JSON
-with open("lista.json") as words:
+with open("palabras.json") as words:
     wordsJSON = json.load(words) # Guardo el JSON cargado en una variable para poder referenciarlo
 
 # Selecciono la clave que me interesa
