@@ -1,7 +1,7 @@
-words_list = (
-    "abeja", "abril", "abuelo", "acero", "agua", "aire", "ala", "alma", "alto", "amigo", 
+{
+    "words" : ["abeja", "abril", "abuelo", "acero", "agua", "aire", "ala", "alma", "alto", "amigo", 
     "bailar", "bajo", "balon", "barco", "barrio", "basura", "bebe", "bella", "beso", "blanco", 
-    "cabra", "cafe", "calor", "cama", "cambio", "campo", "cantar", "cara", "carro", "casa", 
+    "cabra", "cafe", "calor", "cama", "cambio", "campo", "cantar", "cara", "carro", "casa",     
     "dado", "dama", "danza", "dar", "dato", "deber", "dedo", "dejar", "delgado", "dentro", 
     "edad", "edificio", "efecto", "ejemplo", "elefante", "elegir", "ella", "ellos", "embargo", "empezar", 
     "facil", "fama", "familia", "fantasma", "farol", "favor", "feliz", "feo", "fiebre", "fuego", 
@@ -24,4 +24,5 @@ words_list = (
     "wafle", "walkman", "web", "whisky", "wifi", "windsurf", "winrar", "wolframio", "wombat", "wonder", 
     "xenon", "xilofono", "xenofobia", "xerox", "xilografia", "xenogenesis", "xenofilia", "xenoglosia", "xenolito", "xenon", 
     "yate", "yegua", "yema", "yerba", "yerno", "yeso", "yodo", "yoga", "yogur", "yoda", 
-    "zafiro", "zanja", "zapato", "zar", "zarza", "zona", "zorro", "zumo", "zurdo", "zueco")
+    "zafiro", "zanja", "zapato", "zar", "zarza", "zona", "zorro", "zumo", "zurdo", "zueco"]
+}
