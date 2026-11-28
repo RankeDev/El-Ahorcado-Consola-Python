@@ -46,3 +46,5 @@ if "_" not in hidden_word or guess_word == True:
     print("\n¡Felicidades! Adivinó la palabra:", word)
 else:
     print("\n¡Perdiste! La palabra era:", word)
+
+input("Presione enter para cerrar el juego")
