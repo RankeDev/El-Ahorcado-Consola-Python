@@ -1,15 +1,18 @@
 import random
 import json
+from palabras import words
 
+"""
 # Cargo el JSON
 with open("palabras.json") as words:
     wordsJSON = json.load(words) # Guardo el JSON cargado en una variable para poder referenciarlo
 
 # Selecciono la clave que me interesa
 words_pool = wordsJSON.get("words") # Con la referencia al JSON, uso el metodo referencia.get("clave") y guardo ese array que obtiene en la variable words_pool
+"""
 
 # Seleccionar una palabra al azar
-word = random.choice(words_pool)
+word = random.choice(words)
 hidden_word = ["_"] * len(word)
 chances = 5
 failed_letters = list()
